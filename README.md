@@ -43,7 +43,7 @@ Procedure:
 // Roll no:212221220052
 
 //Name:V.K. SUJITH KUMAR
-MoveJ ................
+
 
 ## output : 
 
