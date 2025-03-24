@@ -47,7 +47,8 @@ Controllers: Controllers synchronize and control the movement of different actua
 
 ![image](https://github.com/KathirvelAIDS/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/94911373/fc20690c-db66-461e-b554-7b5e517472cc)
 
-![image](https://github.com/KathirvelAIDS/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/94911373/fae65be6-8ff7-483d-8d8d-c603ebb7aae4)
+<img src="https://github.com/KathirvelAIDS/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/94911373/fae65be6-8ff7-483d-8d8d-c603ebb7aae4" height="300" />
+
 
 ## Result: 
 A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully.
