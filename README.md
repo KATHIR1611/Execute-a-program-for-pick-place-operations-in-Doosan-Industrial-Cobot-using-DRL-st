@@ -1,11 +1,15 @@
-# Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-studio
+# EXPERIMENT:6 Execute a program for pick place operations in Doosan Industrial Cobot using DRL studio
+
 ## Aim :
 To Execute a program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio.
 
-##Components Required: Doosan Industrial Collaborative Robot, 2 jaw gripper ,*DRL (Doosan Robotics Language) Studio Software
+## Components Required:
+1. Doosan Industrial Collaborative Robot
+2. DRL (Doosan Robotics Language) Studio Software
+3. 2 jaw gripper
 
 
-## Theory 
+## Theory:
 Pick and place robots enable companies to use automated solutions for lifting objects from one location and placing them at other locations.
 
 Simple tasks such as lifting objects or moving them do not require a lot of thought processes. Therefore, using human workers on these tasks can be wasteful, as the workforce can be used for other tasks that require higher mental abilities.
@@ -30,7 +34,7 @@ Controllers: Controllers synchronize and control the movement of different actua
 
 
 
-Procedure:
+## Procedure:
 
 
 1) Place the given object on table (Workspace).
@@ -39,13 +43,8 @@ Procedure:
 ............
 
 
-## Program 
-// Roll no:212221220052
 
-//Name:V.K. SUJITH KUMAR
-
-
-## output : 
+## Output : 
 
 
 
@@ -73,7 +72,7 @@ Procedure:
 
 
 
-## Results: 
+## Result: 
 
 
 
