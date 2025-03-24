@@ -76,7 +76,7 @@ Controllers: Controllers synchronize and control the movement of different actua
 
 
 
-A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully
+A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully.
 
 
 
